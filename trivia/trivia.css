@@ -1,0 +1,22 @@
+#sci_q3, #sci_q2 , #sci_q1, #hist_q1, #hist_q2, #hist_q3, #ent_q1, #ent_q2, #ent_q3{
+	font-size: 40px;
+}
+
+#points {
+	font-size: 40px;
+}
+
+p {
+	margin: -5px;
+	font-size: 14px;
+}
+button {
+	height: 175px;
+	width: 90%;
+}
+
+h2 {
+	text-align: center;
+	padding-right: 40px;
+}
+
